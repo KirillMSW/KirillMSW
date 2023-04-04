@@ -11,8 +11,8 @@
 ![Macos](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![GoLand](https://img.shields.io/badge/GoLand-0f0f0f?&style=for-the-badge&logo=goland&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)\
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KirillMSW&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **KirillMSW/KirillMSW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
